@@ -9,4 +9,12 @@
     <color name="colorSecondaryText">#757575</color>
     <color name="colorIcons">#FFFFFF</color>
     <color name="colorDivider">#BDBDBD</color>
+
+    <color name="backgroundcolor">#FCFCFC</color>
+    <color name="lightgray">#EDEDED</color>
+    <color name="deeppurple">#7C4DFF</color>
+    <color name="yello">#FFB300</color>
+    <color name="green">#00BFA5</color>
+    <color name="pink">#FF4081</color>
+    <color name="materialyello"></color>
 </resources>
